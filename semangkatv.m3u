@@ -125,13 +125,13 @@ https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
 https://fl3.moveonjoy.com/DISNEY_XD/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mtel.ch/storage/assets/0023_arena_1_premium1.png" group-title="Sport", Arena Sport 1 Premium
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="Sport", Arena 1 Premium
 https://windnew.newkso.ru/wind/premium134/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://mtel.ch/storage/assets/0024_arena_2_premium1.png" group-title="Sport", Arena Sport 2 Premium
+#EXTINF:-1 tvg-logo="https://tvarenaprogram.com/files/img/icons/chanel-a2p.png" group-title="Sport", Arena 2 Premium
 https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://mtel.ch/storage/assets/0025_arena_3_premium1.png" group-title="Sport", Arena Sport 3 Premium
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logofan/images/f/f1/Chanel-a3p.png/revision/latest?cb=20240928233831&path-prefix=es" group-title="Sport", Arena 3 Premium
 https://beautifulpeople.lovecdn.ru/ARENASPORT3PREMIUMRS/index.fmp4.m3u8?token=d41fae5c3dcfd5b6bdda2d243baeca087bc93fb1-26cbca98fbe65ed1fd022bb2ace8719f-1754205892-1754195092
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-name="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="Sport", unifi Sports
