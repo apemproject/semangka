@@ -44,7 +44,7 @@ https://halu.serv00.net/satu.mpd?id=18253
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/223-2235566_hbo-hd-hbo-hd-logo-png.png" group-title="Movie", HBO HD
 https://zekonew.newkso.ru/zeko/premium321/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/587595.png" group-title="Movie", FX
+#EXTINF:-1 tvg-id="FX.Movie.Channel" tvg-logo="https://logodix.com/logo/587595.png" group-title="Movie", FX
 https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="Movie", FXX
