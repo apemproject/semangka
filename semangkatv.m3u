@@ -1,13 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="AFC U-20 Women's" tvg-logo="https://thumbor.prod.vidiocdn.com/Y8OKr1xEOEB-rn546eeTC-5a3yg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18994/afc-women-s-asian-cup-2026-qualifiers-86f8e6.jpg", AFC U-20 Women's
-#EXTVLCOPT:http-referrer=https://m.vidio.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=18994 
-https://gasruktv.my.id/sakura/drm.php?id=18994&type=dash
-
 
 #EXTINF:-1 group-title="SEA VLeague" tvg-logo="https://thumbor.prod.vidiocdn.com/Lx_zp9DUIcCkO0nQEIQ-69NO9B4=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19051/sea-vleague-2025-cover-bc8d0f.jpg", SEA VLeague 
 #EXTVLCOPT:http-referrer=https://m.vidio.com 
