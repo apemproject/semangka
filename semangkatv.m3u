@@ -2,14 +2,6 @@
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/gbcMIJVA/poster.jpg?width=320" group-title="Womens' U21 World Champs 2025",USA - Korea | Pool B
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/gbcMIJVA/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/eY5qS8us/poster.jpg?width=320" group-title="Womens' U21 World Champs 2025",Serbia - Puerto Rico | Pool A
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eY5qS8us/live.isml/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/lg0Y87tj/poster.jpg?width=320" group-title="Womens' U21 World Champs 2025",Turkiye - Algeria | Pool C
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/lg0Y87tj/live.isml/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/oJ558PjL/poster.jpg?width=320" group-title="Womens' U21 World Champs 2025",Brazil - Bulgaria | Pool D
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oJ558PjL/live.isml/.m3u8
