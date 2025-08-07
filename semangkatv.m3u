@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
-#EXTINF:-1 tvg-id="" tvg-name="China - Croatia | Pool B" tvg-logo="https://cdn.jwplayer.com/v2/media/mQ3imMKn/poster.jpg?width=1920" group-title="Womens' U21 World Champs 2025"
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/mQ3imMKn/poster.jpg?width=1920" group-title="Womens' U21 World Champs 2025" China - Croatia | Pool B
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/mQ3imMKn/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Italy - Czechia | Pool C" tvg-logo="https://cdn.jwplayer.com/v2/media/69Wzb2wE/poster.jpg?width=1920" group-title="Womens' U21 World Champs 2025"
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/69Wzb2wE/poster.jpg?width=1920" group-title="Womens' U21 World Champs 2025" Italy - Czechia | Pool C
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/69Wzb2wE/live.isml/.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Argentina - Canada | Pool A | Womens' U21 World Champs 2025" tvg-logo="https://cdn.jwplayer.com/v2/media/AzsJM73R/poster.jpg?width=1920" group-title="Womens' U21 World Champs 2025"
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jwplayer.com/v2/media/AzsJM73R/poster.jpg?width=1920" group-title="Womens' U21 World Champs 2025" Argentina - Canada | Pool A
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/AzsJM73R/live.isml/.m3u8
 
 
