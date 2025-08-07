@@ -4,7 +4,8 @@
 #EXTINF:-1 group-title="Womens' U21 World Champs 2025" tvg-logo="https://thumbor.prod.vidiocdn.com/JB4ADtfCwik5-VHXrSOFdzDt-H8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19334/fivb-women-s-u21-world-championship-2025-84f8d2.jpg", Indonesia - Vietnam | Pool A
 #EXTVLCOPT:http-referrer=https://m.vidio.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19334
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19334
 https://gasruktv.my.id/sakura/vid.mpd?id=19334&type=dash
 
 
