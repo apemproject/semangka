@@ -69,6 +69,19 @@ https://gasruktv.my.id/sakura/vid.mpd?id=19051&type=dash
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
 
 
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg", BRI LIGA 1
+#EXTVLCOPT:http-referrer=https://m.vidio.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19353 
+https://gasruktv.my.id/sakura/vid.mpd?id=19353&type=dash
+
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg", BRI LIGA 1
+#EXTVLCOPT:http-referrer=https://m.vidio.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19354
+https://gasruktv.my.id/sakura/vid.mpd?id=19354&type=dash
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/2532px-2012_BWF_logo.svg.png" group-title="BWF", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
