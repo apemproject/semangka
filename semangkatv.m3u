@@ -60,6 +60,13 @@ https://gasruktv.my.id/sakura/vid.mpd?id=19353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19354
 https://gasruktv.my.id/sakura/vid.mpd?id=19354&type=dash
 
+#EXTINF:-1 group-title="BRI Super League Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/BRI_Super_League_Indonesia.png/960px-BRI_Super_League_Indonesia.png?20250804110608", Broadcast 3
+#EXTVLCOPT:http-referrer=https://m.vidio.com 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19354
+https://gasruktv.my.id/sakura/vid.mpd?id=19355&type=dash
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/2532px-2012_BWF_logo.svg.png" group-title="BWF", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
