@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
-#EXTINF:-1 group-title="Womens' U21 World Champs 2025" tvg-logo="https://thumbor.prod.vidiocdn.com/JB4ADtfCwik5-VHXrSOFdzDt-H8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19334/fivb-women-s-u21-world-championship-2025-84f8d2.jpg", FIVB U21 World Champs 2025 ver.ViDIO
-#EXTVLCOPT:http-referrer=https://m.vidio.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19334
-https://gasruktv.my.id/sakura/vid.mpd?id=19334&type=dash
 
 
 
