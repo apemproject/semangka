@@ -2,6 +2,46 @@
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
 
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L6dA74rk/poster.jpg?width=1920",China - Mexico | Pool B | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L6dA74rk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/2hkmXQ8d/poster.jpg?width=1920",Argentina - Vietnam | Pool A | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/2hkmXQ8d/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hncloDTy/poster.jpg?width=1920",Italy - Egypt | Pool C | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hncloDTy/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/CvfAEtqj/poster.jpg?width=1920",USA - Croatia | Pool B | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/CvfAEtqj/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/hSyxAzVy/poster.jpg?width=1920",Turkiye - Czechia | Pool C | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/hSyxAzVy/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/JasOoe6j/poster.jpg?width=1920",Puerto Rico - Canada | Pool A | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/JasOoe6j/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OXj6qBNH/poster.jpg?width=1920",Poland - Argentina | Pool C | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OXj6qBNH/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/wTS9B6AX/poster.jpg?width=1920",Dominican Republic - Korea | Pool B | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/wTS9B6AX/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/shXBT8Vl/poster.jpg?width=1920",Thailand - Chile | Pool D | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/shXBT8Vl/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/i8tNnBHY/poster.jpg?width=1920",Indonesia - Serbia | Pool A | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/i8tNnBHY/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/IMU7Ul2B/poster.jpg?width=1920",Brazil - Tunisia | Pool D | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/IMU7Ul2B/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/cbFPGUCe/poster.jpg?width=1920",Japan - Bulgaria | Pool D | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/cbFPGUCe/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GQHKh2KI/poster.jpg?width=1920",Serbia - Canada | Pool A | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GQHKh2KI/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/sWXwRsAc/poster.jpg?width=1920",China - USA | Pool B | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/sWXwRsAc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3fWLea5d/poster.jpg?width=1920",Italy - Turkiye | Pool C | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3fWLea5d/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/pt26wCNk/poster.jpg?width=1920",Mexico - Korea | Pool B | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/pt26wCNk/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/OrnmMZaR/poster.jpg?width=1920",Puerto Rico - Vietnam | Pool A | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/OrnmMZaR/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/YJQ3jzMS/poster.jpg?width=1920",Egypt - Algeria | Pool C | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/YJQ3jzMS/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/uKjqJqFc/poster.jpg?width=1920",Thailand - Bulgaria | Pool D | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/uKjqJqFc/live.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bbCg4iKT/poster.jpg?width=1920",Dominican Republic - Croatia | Pool B | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bbCg4iKT/live.isml/.m3u8
 
 
 
