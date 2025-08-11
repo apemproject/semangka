@@ -31,15 +31,6 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ufPARRGs/live.is
 
 
 
-
-
-#EXTINF:-1 group-title="SEA VLeague" tvg-logo="https://thumbor.prod.vidiocdn.com/Lx_zp9DUIcCkO0nQEIQ-69NO9B4=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19051/sea-vleague-2025-cover-bc8d0f.jpg", SEA VLeague 
-#EXTVLCOPT:http-referrer=https://m.vidio.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/sakura/drm.php?id=19051
-https://gasruktv.my.id/sakura/vid.mpd?id=19051&type=dash
-
 #EXTINF:-1 tvg-id="One Sports+" tvg-logo="https://i.ibb.co.com/7pX36kV/onesports.png" group-title="SEA VLeague", One Sports+ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
