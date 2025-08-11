@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://psdstamps.com/wp-content/uploads/2019/12/tested-stamp-png.png" group-title="", tes
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7729a7972a8fa34d2a6da64112b35116:11ab8fb61a5eae9f61c893c287e80009
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/6786/file/drm/dash/6786_stream.mpd?hdnts=exp=1754879100~acl=/stream/6786/file/*~id=183740554~hmac=ae54f93e0a2c192d315ad4ddb31f69c093dd1fafefb934a8c420dcbd5f6d18f3e&ck=eyI3NzI5YTc5NzJhOGZhMzRkMmE2ZGE2NDExMmIzNTExNiI6IjExYWI4ZmI2MWE1ZWFlOWY2MWM4OTNjMjg3ZTgwMDA5In0=
+
 
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L6dA74rk/poster.jpg?width=1920",China - Mexico | Pool B | Womens' U21 World Champs 2025
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L6dA74rk/live.isml/.m3u8
