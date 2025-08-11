@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
-#EXTINF:-1 tvg-id="" tvg-name="BRI Super League" tvg-logo="https://thumbor.prod.vidiocdn.com/D1oTh4n6oWkdC3tdwLTk8pYWFxY=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/59/bri-super-league-8fe54a.png" group-title="", Arema FC vs PSBS Biak - BRI Super League
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5e96a9a77cf2a4da32a6da64112b351:db6d2c3431dff19cd3da2953f987601c
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/file/drm/dash/19354_stream.mpd?hdntl=exp=1754913495~acl=%2fstream%2f19354%2ffile%2f*~id=183740554~data=hdntl~hmac=88fc7dff63449d0f8111ced8c7c549f51c833c1bdea5229019e9ab72dce0d9e9
 
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/L6dA74rk/poster.jpg?width=1920",China - Mexico | Pool B | Womens' U21 World Champs 2025
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/L6dA74rk/live.isml/.m3u8
