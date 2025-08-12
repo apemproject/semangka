@@ -4,7 +4,10 @@
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v_TLXubA1BQ/hq720.jpg?v=6899c5ba&sqp=CODl6sQG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDnUtEZEUazqePh2beaXmnSrjf2zw", 2025 Korea Invitational Jinju
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755017665/ei/YR2baKfVBf-jqfkPk8vGwQo/ip/36.85.222.127/id/t4Nz5yY863U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLNnbMRNWBaMqJRCPJ0MV2CGl1t_rQOKiaIljhTZv6tEhb8iqH6hR1IATsTRAl9L3de5XA/spc/l3OVKc68_lFI2FdqhRThf_D4B8epakr2uO1kJMxnw66Ogk62oUXhXTjIoxuscBv4zx_O/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgepOSq2u6-2HvVzcDi4iEnuq7zOrJe2Jdb56_ZEajQ5wCIQCYSAHkeRJrCbxAAIrGSnBKFxkAI9cwK9rBkJYiyrI4nw%3D%3D/file/index.m3u8
 
-
+#EXTINF:-1 tvg-id="97078" tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubotv_onechampionshiptv_channel_logo_solid2.png" group-title="One Championship", One Championship
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="One Sports+" tvg-logo="https://i.ibb.co.com/7pX36kV/onesports.png" group-title="SEA VLeague", One Sports+ 
