@@ -42,8 +42,21 @@ https://halu.serv00.net/satu.mpd?id=18252
 #KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
 https://halu.serv00.net/satu.mpd?id=18253
 
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/full/223-2235566_hbo-hd-hbo-hd-logo-png.png" group-title="Movie", HBO HD
-https://zekonew.newkso.ru/zeko/premium321/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/tvn-movies.png" group-title="Korea", tvN Movies
+https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="Korea", tvN
+https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Korea", K-PLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="Movie", ROCK Action
+https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-id="FX.Movie.Channel." tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20CINEMA%20ASIA.png" group-title="Movie", My Cinema Asia
+https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
 
 #EXTINF:-1 tvg-id="FX.Movie.Channel." tvg-logo="https://logodix.com/logo/587595.png" group-title="Movie", FX
 https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
@@ -107,6 +120,8 @@ https://zekonew.newkso.ru/zeko/premium394/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="KIDS", ANIPLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="KIDS", Nickelodeon
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
