@@ -6,7 +6,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755017665/ei/Y
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/7MLjC_VrOFCMquPNbwfYMHV_RH4=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19331/fivb-women-s-u21-world-championship-2025-cover-976f04.jpg" group-title="FIVB Women's U21 World Championship", Versi Video punya
+#EXTINF:-1 tvg-id="" tvg-logo="https://thumbor.prod.vidiocdn.com/7MLjC_VrOFCMquPNbwfYMHV_RH4=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/19331/fivb-women-s-u21-world-championship-2025-cover-976f04.jpg" group-title="FIVB Women's U21 World Championship", Versi Vidio.com punya
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
