@@ -49,8 +49,27 @@ https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2560px-Logo_tvN.svg.png" group-title="Korea", tvN
 https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://res.static.kbs.co.kr/img/ch/11.svg" group-title="Korea", KBS 1
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1755189564&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTUxODk1NjR9fX1dfQ__&Signature=a9vIFl14beA9CUsjNVxNbBqQHXNm-PDuPT6bxTfiej83CfADK5-0iQL2HLeH~DhxkWbFcQvvVFXwH57qZDd0NYXG2vZSDG1FUm~GZ51Gt8d9f5YI~9XxV0kaB-jwOuZyvOtbr-olYjPtYsFw20JP9ogUL~AISlzuR1To10JgjiVg6ztRMuIazchsm22TcWmAPq1X8H61ZQEIHk~~wWdNomORorAdUVwpdBlk8JJcznA-7w7btDVMw5NU7XbxDJCl4CUsAhMIr~1ssMyS5enTfxTmXwabMqEqDbAPrHqO2nY8XHys8E0PfM50WlHZTtxv1OK~FKIQD6rkd4iDDXLbUg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Korea", K-PLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Korea", K-PLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Korea", K-PLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/k-plus.png" group-title="Korea", K-PLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/revision/latest?cb=20221212024829" group-title="Movie", ROCK Action
 https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
@@ -123,6 +142,13 @@ https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png/revision/latest?cb=20200822104703" group-title="KIDS", ANIPLUS
 https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/75/One_Piece_Logo.png" group-title="Anime", One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/986px-Naruto_logo.svg.png" group-title="Anime", NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="KIDS", Nickelodeon
 https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 
@@ -134,7 +160,7 @@ https://fl5.moveonjoy.com/NICK_JR/tracks-v1a1/mono.ts.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8315b1996d92477b965cb29100a3dc07:0081c0674e9047e219caa27a07da9d4b
 https://tr.live.cdn.cgates.lt/live/dash/560505/index.mpd
 
-https://fl1.moveonjoy.com/NICKTOONS/tracks-v1a1/mono.m3u8
+
 
 
 
