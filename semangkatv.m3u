@@ -6,14 +6,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755017665/ei/Y
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/G61xseM7/poster.jpg?width=1920",Brazil - Japan | Pool D | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/G61xseM7/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/oK6BNJtG/poster.jpg?width=1920",Indonesia - Argentina | Pool A | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/oK6BNJtG/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/ufPARRGs/poster.jpg?width=1920",Tunisia - Chile | Pool D | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/ufPARRGs/live.isml/.m3u8
-
-
 
 #EXTINF:-1 tvg-id="One Sports+" tvg-logo="https://i.ibb.co.com/7pX36kV/onesports.png" group-title="SEA VLeague", One Sports+ 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
