@@ -108,14 +108,21 @@ https://zekonew.newkso.ru/zeko/premium394/mono.m3u8
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" group-title="KIDS", Nickelodeon
-https://windnew.newkso.ru/wind/premium330/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Nickelodeon_2023_logo.png" group-title="KIDS", Nickelodeon
+https://dai.google.com/linear/hls/event/0HWMZ7VTTAi8C7Y35fcbgQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://cordcutting.com/wp-content/uploads/2017/11/nick-jr-logo.png" group-title="KIDS", Nick Jr.
 https://fl5.moveonjoy.com/NICK_JR/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="KIDS", Nicktoons
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Nicktoons_logo_%282023%29.svg" group-title="KIDS", Nicktoons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
 https://fl1.moveonjoy.com/NICKTOONS/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/2/25/Disney_Channel_2024_logo.png/revision/latest/thumbnail/width/360/height/360?cb=20240924174359" group-title="KIDS", Disney Channel
 https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
