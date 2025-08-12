@@ -77,11 +77,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="FX.Movie.Channel." tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20CINEMA%20ASIA.png" group-title="Movie", My Cinema Asia
 https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Asia
 
-#EXTINF:-1 tvg-id="FX.Movie.Channel." tvg-logo="https://logodix.com/logo/587595.png" group-title="Movie", FX
-https://zekonew.newkso.ru/zeko/premium317/mono.m3u8
+#EXTINF:-1 tvg-id="FX.us@East" tvg-id="FX.Movie.Channel." tvg-logo="https://logodix.com/logo/587595.png" group-title="Movie", FX
+https://fl5.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="Movie", FXX
-https://ddy6new.newkso.ru/ddy6/premium298/mono.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/FXX-White-Small.png" group-title="Movie", FXX
+https://fl3.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-name="Miramax" tvg-logo="https://file.garden/aFQjU_LpHi9tgPMM/IMG/MIRAMAX" group-title="Movie", Miramax
 https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
