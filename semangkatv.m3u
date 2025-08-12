@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
-
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v_TLXubA1BQ/hq720.jpg?v=6899c5ba&sqp=CODl6sQG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDnUtEZEUazqePh2beaXmnSrjf2zw", 2025 Korea Invitational Jinju
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754992849/ei/cbyaaKuxN6O84t4PgfmdoAM/ip/36.85.222.127/id/v_TLXubA1BQ.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLOaY2UpcpRxy0tOkpNn94h0TU4joo5N65eXl_kSc6SLApWOoZjPdO4hhq2HjSUQdY-EOg/spc/l3OVKaPaX1mg1hGW-t6J52JdPt4DPFETC4ry-2oGJwlGuXv93xRK1nS5EoHo5wwNGAfh/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALScaTdZbQVs81HNREYcAIZ5ykk61Wyk-PtU8nCXKFqiAiAnfBj1PWxopGnH9XbM1Hv-vlr1iLeRx9-C25-0Uq87Gw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/GQHKh2KI/poster.jpg?width=1920",Serbia - Canada | Pool A | Womens' U21 World Champs 2025
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/GQHKh2KI/live.isml/.m3u8
