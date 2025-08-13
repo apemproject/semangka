@@ -14,14 +14,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755017665/ei/Y
 https://halu.serv00.net/satu.mpd?id=19334
 
 
-
-
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/yq6avOf6/poster.jpg?width=1920", Japan - Croatia | R16 | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yq6avOf6/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/bbgk6yO4/poster.jpg?width=1920", Chile - Mexico | Classification 17-24 | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bbgk6yO4/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pzT4daD/poster.jpg?width=1920", Italy - Indonesia | R16 | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8pzT4daD/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BfAsoAJO/poster.jpg?width=1920", Poland - Puerto Rico | R16 | Womens' U21 World Champs 2025
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BfAsoAJO/live.isml/.m3u8
 
@@ -358,16 +350,16 @@ https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MzMyYzk1MGY3
 
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://i.imgur.com/ViDaXhB.png" group-title="ESPN Inc.", ESPN
-https://ott.udptv.xyz/stream/udptvus/espn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NTkzNGQyNjA3OWRiLWU1NGEtYmZjNC05NDMxLWU4OTEyYmJm/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/DeJJ6OX.png" group-title="ESPN Inc.", ESPN 2
-https://ott.udptv.xyz/stream/udptvus/espn2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.U.us" tvg-name="ESPNU" tvg-logo="https://i.imgur.com/yzqMIbU.png" group-title="ESPN Inc.", ESPN U
-https://ott.udptv.xyz/stream/udptvus/espnu/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MDg5NTVmYzNlZjA1LWQzNmItYmI1NC0yNmQ3LWYyZDZjNDhi/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="ESPNEWS" tvg-logo="https://i.imgur.com/AAvbuUo.png" group-title="ESPN Inc.", ESPN NEWS
-https://ott.udptv.xyz/stream/udptvus/espnnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MTNmNzQ2YmUwYzk0LTU3OGEtOTM1NC1lZDBhLTVhODk0ODM4/master.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.News.us" tvg-name="SECN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/1200px-SEC_Network_%282024%29.svg.png" group-title="ESPN Inc.", SECN
 https://zekonew.newkso.ru/zeko/premium385/mono.m3u8
