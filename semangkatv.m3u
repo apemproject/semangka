@@ -14,12 +14,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755017665/ei/Y
 https://halu.serv00.net/satu.mpd?id=19334
 
 
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BfAsoAJO/poster.jpg?width=1920", Poland - Puerto Rico | R16 | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BfAsoAJO/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/eejTyqZZ/poster.jpg?width=1920", China - Thailand | R16 | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/eejTyqZZ/live.isml/.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3RYgGxr9/poster.jpg?width=1920", Canada - Algeria | Classification 17-24 | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/3RYgGxr9/live.isml/.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/1Mpt30U8/poster.jpg?width=1920", Egypt - Vietnam | Classification 17-24 | Womens' U21 World Champs 2025
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/1Mpt30U8/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BVWuxK7I/poster.jpg?width=1920", Brazil - Korea | R16 | Womens' U21 World Champs 2025
@@ -38,7 +33,8 @@ https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/yq6avOf6/live.is
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/bbgk6yO4/live.isml/.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/8pzT4daD/poster.jpg?width=1920", Italy - Indonesia | R16 | Womens' U21 World Champs 2025
 https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/8pzT4daD/live.isml/.m3u8
-
+#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BfAsoAJO/poster.jpg?width=1920", Poland - Puerto Rico | R16 | Womens' U21 World Champs 2025
+https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BfAsoAJO/live.isml/.m3u8
 
 
 #EXTINF:-1 tvg-id="97078" tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubotv_onechampionshiptv_channel_logo_solid2.png" group-title="One Championship", One Championship
