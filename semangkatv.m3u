@@ -1,60 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/v_TLXubA1BQ/hq720.jpg?v=6899c5ba&sqp=CODl6sQG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDnUtEZEUazqePh2beaXmnSrjf2zw", 2025 Korea Invitational Jinju
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1755017665/ei/YR2baKfVBf-jqfkPk8vGwQo/ip/36.85.222.127/id/t4Nz5yY863U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLNnbMRNWBaMqJRCPJ0MV2CGl1t_rQOKiaIljhTZv6tEhb8iqH6hR1IATsTRAl9L3de5XA/spc/l3OVKc68_lFI2FdqhRThf_D4B8epakr2uO1kJMxnw66Ogk62oUXhXTjIoxuscBv4zx_O/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgepOSq2u6-2HvVzcDi4iEnuq7zOrJe2Jdb56_ZEajQ5wCIQCYSAHkeRJrCbxAAIrGSnBKFxkAI9cwK9rBkJYiyrI4nw%3D%3D/file/index.m3u8
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdns.klimg.com/mav-prod-resized/1200x630/ori/image_bank/2025/08/07/112933.418-jadwal-lengkap-pertandingan-kejuaraan-dunia-voli-putri-u21-2025-7-17-agustus-2025-1.jpg", Versi Vidio.com punya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e18c4d5a8fc3c954e6d1fd4df322be7d:fc07b606775bf273442030ef499499d5
-https://halu.serv00.net/satu.mpd?id=19334
-
-
-#EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/BfAsoAJO/poster.jpg?width=1920", Poland - Puerto Rico | R16 | Womens' U21 World Champs 2025
-https://livecdn.euw1-0005.jwplive.com/live/sites/fM9jRrkn/media/BfAsoAJO/live.isml/.m3u8
-
-
-#EXTINF:-1 tvg-id="97078" tvg-name="" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubotv_onechampionshiptv_channel_logo_solid2.png" group-title="One Championship", One Championship
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="One Sports+" tvg-logo="https://i.ibb.co.com/7pX36kV/onesports.png" group-title="SEA VLeague", One Sports+ 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_sdi2.mpd
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/2532px-2012_BWF_logo.svg.png" group-title="BWF", COURT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8a8158dfb4a4a0d85dbee672e11c7e4:4ca940fd2caabe479d2feef34c63d851
-https://halu.serv00.net/satu.mpd?id=18249
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/2532px-2012_BWF_logo.svg.png" group-title="BWF", COURT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
-https://halu.serv00.net/satu.mpd?id=18250
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/2532px-2012_BWF_logo.svg.png" group-title="BWF", COURT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://halu.serv00.net/satu.mpd?id=18252
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/2012_BWF_logo.svg/2532px-2012_BWF_logo.svg.png" group-title="BWF", COURT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
-https://halu.serv00.net/satu.mpd?id=18253
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/tvn-movies.png" group-title="Korea", tvN Movies
