@@ -2,6 +2,13 @@
 #EXTM3U url-tvg="https://da.gd/Barca,https://da.gd/MUTV1,https://da.gd/SGSD1,https://da.gd/AST1,https://da.gd/AUSD1,https://da.gd/CASD1,https://da.gd/EPGALL,https://da.gd/FRASD1,https://da.gd/IDNSD1,https://da.gd/IDNSD2,https://da.gd/IDNSD3,https://da.gd/ITASD1,https://da.gd/NZSD1,https://da.gd/SESD1,https://da.gd/TRSD1,https://da.gd/UKSD1,https://da.gd/USASD1" refresh="1440" max-conn="1"
 
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/el9bDqkjufJ43oDM6XXrrjeSmVc=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/630/piala-kemerdekaan-56590a.png" group-title="Piala Kemerdekaan", Piala Kemerdekaan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fdc5a88c47666bcc98796994817681d:dc923c54b567fa07cdef250915687003
+https://tekoo.web.id/satu.mpd?id=19367
+
 
 #EXTINF:-1 tvg-logo="https://images.volleyballworld.com/image/upload/f_png/v1745919264/assets/competition-logos/Events%202025/Volleyball/Women%E2%80%99s%20U21%20World%20Champ/2025WomenU21%20WCH%20logo%20white" group-title="FIVB Women's U21 World Championship", CH 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
