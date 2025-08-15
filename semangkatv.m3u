@@ -443,18 +443,20 @@ https://mpdvid.gasruktv.workers.dev/play.mpd?id=9183&type=dash
 https://mpdvid.gasruktv.workers.dev/play.mpd?id=9353&type=dash
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZKNcw2K.png" group-title="SPOTV" group-logo="" tvg-id="SPOTV.id" tvg-name="SPOTV", SPOTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17139
-https://mpdvid.gasruktv.workers.dev/play.mpd?id=17139&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d49b45de7ba8c8dfbd1fe04b874be34:b4f813a1e820bc55dbef9f2540adf49f
+https://tekoo.web.id/satu.mpd?id=17139
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jKGv5My.png" group-title="SPOTV" group-logo="" tvg-id="SPOTV2.id" tvg-name="SPOTV 2", SPOTV2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://m.vidio.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17140
-https://mpdvid.gasruktv.workers.dev/play.mpd?id=17140&type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d576b166f055e97c9371a30835d1d90:bab4a56701471429489ecb6fa02d4ebf
+https://tekoo.web.id/satu.mpd?id=17140
 
 #EXTINF:-1 tvg-id="Sportstars.HD.id" tvg-name="Sportstar" group-title="Sportstars" tvg-logo="https://i.imgur.com/A8t3JGa.png",Sportstar
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
